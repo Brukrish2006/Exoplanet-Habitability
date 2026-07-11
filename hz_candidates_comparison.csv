@@ -1,0 +1,177 @@
+pl_name,st_teff,SpT,pl_insol,In_HZ_Kop,In_HZ_Model
+16 Cyg B b,5750.0,G,0.454,True,True
+55 Cnc B c,3286.0,M,0.4613,True,True
+BD+14 4559 b,4864.0,K,0.7867,True,True
+BD+45 564 b,5004.0,K,0.579,True,True
+BD+55 362 b,5012.0,K,0.7996,True,True
+BD-06 1339 c,4324.0,K,0.5024,True,True
+BD-08 2823 c,4746.0,K,0.5117,True,True
+BEBOP-4 AB b,5701.43,G,0.5477,True,True
+GJ 1002 b,3024.0,M,0.67,True,True
+GJ 1002 c,3024.0,M,0.257,True,True
+GJ 1061 d,2953.0,M,0.6,True,True
+GJ 1148 b,3287.0,M,0.4906,True,True
+GJ 180 c,3371.0,M,0.7812,True,True
+GJ 2126 b,4159.0,K,0.2833,True,True
+GJ 251 c,3342.0,M,0.404,True,True
+GJ 3293 d,3466.0,M,0.59,True,True
+GJ 357 d,3505.0,M,0.38,True,True
+GJ 433 d,3461.0,M,0.6312,True,True
+GJ 514 b,3728.0,K,0.28,True,True
+GJ 667 C c,3350.0,M,0.8774,True,False
+GJ 667 C e,3350.0,M,0.3022,True,True
+GJ 667 C f,3350.0,M,0.5633,True,True
+GJ 682 b,3028.0,M,0.3125,True,True
+GJ 687 b,3413.0,M,0.801,True,True
+GJ 876 b,3293.74,M,0.2857,True,True
+GJ 876 c,3293.74,M,0.7384,True,True
+GJ 887 d,3688.0,M,0.81,True,True
+HD 100777 b,5533.0,G,0.9345,True,True
+HD 10180 g,5911.0,G,0.7317,True,True
+HD 103891 b,6072.0,F,0.5714,True,True
+HD 10442 b,4912.0,K,0.5054,True,True
+HD 106270 b,5509.0,G,0.511,True,True
+HD 10697 b,5641.0,G,0.7124,True,True
+HD 108874 b,5600.0,G,0.923,True,True
+HD 109286 b,5694.0,G,0.709,True,True
+HD 111998 b,6557.0,F,0.8918,True,True
+HD 114729 b,5844.0,G,0.617,True,True
+HD 125612 b,5900.0,G,0.6309,True,True
+HD 128356 b,4875.0,K,0.4756,True,True
+HD 13167 b,5671.0,G,0.5428,True,True
+HD 132406 b,5766.0,G,0.4641,True,True
+HD 133131 A b,5799.0,G,0.4642,True,True
+HD 135872 b,4992.0,K,0.4969,True,True
+HD 136118 b,6097.0,F,0.684,True,True
+HD 137388 b,5181.0,K,0.5807,True,True
+HD 13908 c,6255.0,F,0.9705,True,True
+HD 141399 d,5600.0,G,0.364,True,True
+HD 141937 b,5870.0,G,0.4436,True,True
+HD 142415 b,5940.0,G,1.0219,True,True
+HD 147379 b,4090.0,K,0.7847,True,True
+HD 147513 b,5883.0,G,0.5609,True,True
+HD 154391 b,4909.0,K,0.685,True,True
+HD 159868 b,5534.0,G,0.668,True,True
+HD 1605 c,4915.0,K,0.5026,True,True
+HD 160691 b,5773.0,G,0.8439,True,True
+HD 16175 b,5981.0,G,0.7164,True,True
+HD 163607 c,5522.0,G,0.4605,True,True
+HD 165155 b,5426.0,G,0.5482,True,True
+HD 16760 b,5518.0,G,0.5388,True,True
+HD 169830 c,6300.0,F,0.4856,True,True
+HD 175167 b,5635.0,G,0.496,True,True
+HD 17674 b,5904.0,G,0.7946,True,True
+HD 18015 b,5603.0,G,0.6286,True,True
+HD 180617 b,3534.0,M,0.2751,True,True
+HD 181720 b,5736.0,G,0.5671,True,True
+HD 183263 b,5948.0,G,0.8347,True,True
+HD 188015 b,5746.0,G,0.7914,True,True
+HD 190228 b,5360.0,G,0.8598,True,True
+HD 190647 b,5656.0,G,0.3978,True,True
+HD 191939 g,5348.0,G,0.99,False,True
+HD 196885 A b,6254.0,F,0.4271,True,True
+HD 197037 b,6150.0,F,0.4042,True,True
+HD 20782 b,5782.13,G,0.6863,True,True
+HD 20794 f,5368.0,G,0.3746,True,True
+HD 20868 b,4802.0,K,0.3278,True,True
+HD 210193 b,5790.0,G,0.5142,True,True
+HD 210277 b,5538.0,G,0.7275,True,True
+HD 213240 b,5979.0,G,0.7524,True,True
+HD 214823 b,6215.0,F,0.4586,True,True
+HD 216435 b,5999.0,G,0.5501,True,True
+HD 218566 b,4730.0,K,0.7414,True,True
+HD 219415 b,4820.0,K,0.4071,True,True
+HD 221287 b,6304.0,F,1.0624,True,True
+HD 221585 b,5620.0,G,0.4965,True,True
+HD 222582 b,5790.0,G,0.7253,True,True
+HD 224538 b,6097.0,F,0.523,True,True
+HD 23079 b,5994.0,G,0.5273,True,True
+HD 23127 b,5843.0,G,0.5038,True,True
+HD 23596 b,6040.0,F,0.3957,True,True
+HD 27969 b,5966.0,G,0.76,True,True
+HD 28185 b,5602.0,G,0.9073,True,True
+HD 28254 b,5664.0,G,0.3645,True,True
+HD 30562 b,5882.0,G,0.5147,True,True
+HD 331093 b,5544.0,G,0.4895,True,True
+HD 34445 b,5879.0,G,0.4691,True,True
+HD 34445 f,5836.0,G,0.8442,True,True
+HD 38529 c,5697.0,G,0.656,True,True
+HD 40307 g,4956.0,K,0.6378,True,True
+HD 4113 b,5688.0,G,0.744,True,True
+HD 43197 b,5508.0,G,0.9377,True,True
+HD 45350 b,5566.0,G,0.375,True,True
+HD 45364 c,5466.0,G,0.7829,True,True
+HD 4732 c,4898.0,K,0.5881,True,True
+HD 564 b,5902.0,G,0.7254,True,True
+HD 63765 b,5449.0,G,0.627,True,True
+HD 65216 b,5612.0,G,0.4185,True,True
+HD 7199 b,5371.0,G,0.3785,True,True
+HD 73534 b,4917.0,K,0.3721,True,True
+HD 86264 b,6210.0,F,0.5987,True,True
+HD 87816 c,4989.0,K,0.4396,True,True
+HD 9174 b,5577.0,G,0.4979,True,True
+HD 99109 b,5282.0,G,0.5465,True,True
+HIP 109384 b,5180.0,K,0.3732,True,True
+HIP 34222 b,4050.0,K,0.3832,True,True
+HIP 56640 b,4769.0,K,0.542,True,True
+HIP 67851 c,4840.0,K,0.7091,True,True
+HN Lib b,3347.0,M,0.503,True,True
+K2-288 B b,3341.0,M,0.4368,True,True
+K2-312 c,5959.0,G,0.4519,True,True
+KELT-6 c,6272.0,F,0.5448,True,True
+KIC 3526061 b,4829.0,K,0.6208,True,True
+Kepler-1058 b,4644.0,K,0.77,True,True
+Kepler-1086 c,4350.0,K,0.519,True,True
+Kepler-1143 c,5053.0,K,0.568,True,True
+Kepler-1229 b,3784.0,K,0.524,True,True
+Kepler-1318 b,4598.0,K,0.492,True,True
+Kepler-150 f,5528.0,G,0.4485,True,True
+Kepler-1540 b,4540.0,K,0.849,True,True
+Kepler-1544 b,4886.0,K,0.833,True,True
+Kepler-1593 b,4995.0,K,0.889,True,True
+Kepler-1600 b,5214.0,G,0.4,True,True
+Kepler-1628 b,3724.0,K,0.79,True,True
+Kepler-1634 b,5474.0,G,0.544,True,True
+Kepler-1635 b,5347.0,G,0.4,True,True
+Kepler-1647 b,6210.0,F,0.5956,True,True
+Kepler-1649 c,3240.0,M,0.75,True,True
+Kepler-1652 b,3638.0,M,0.81,True,True
+Kepler-1661 b,5100.0,K,0.88,True,True
+Kepler-1708 b,6157.0,F,0.561,True,True
+Kepler-174 d,4880.0,K,0.53,True,True
+Kepler-186 f,3755.0,K,0.3,True,True
+Kepler-1868 b,4658.0,K,0.5,True,True
+Kepler-22 b,5596.0,G,1.013,True,True
+Kepler-296 f,3740.0,K,0.62,True,True
+Kepler-442 b,4402.0,K,0.66,True,True
+Kepler-443 b,4723.0,K,0.86,True,True
+Kepler-453 b,5527.0,G,0.9636,True,True
+Kepler-454 c,5687.0,G,0.6814,True,True
+Kepler-47 c,5636.0,G,0.9037,True,True
+Kepler-553 c,5191.0,K,0.589,True,True
+Kepler-62 f,4925.0,K,0.5,True,True
+Kepler-68 d,5847.0,G,0.7889,True,True
+Kepler-705 b,3722.0,K,0.729,True,True
+Kepler-712 c,5148.0,K,0.662,True,True
+LHS 1140 b,3096.0,M,0.43,True,True
+Proxima Cen b,2900.0,M,0.641,True,True
+TOI-1288 c,5388.0,G,0.6114,True,True
+TOI-1338 b,5723.2,G,0.9938,True,True
+TOI-1669 b,5497.0,G,0.571,True,True
+TOI-1694 c,5005.0,K,0.4016,True,True
+TOI-1736 c,5636.0,G,0.9,True,True
+TOI-178 f,4316.0,K,0.6071,True,True
+TOI-199 c,5255.0,G,0.7048,True,True
+TOI-2257 b,3430.0,M,0.6703,True,True
+TOI-2295 c,5730.0,G,0.5059,True,True
+TOI-700 d,3459.0,M,0.85,True,True
+TOI-715 b,3075.0,M,0.67,True,True
+TOI-904 c,3770.2,K,0.5449,True,True
+TRAPPIST-1 e,2566.0,M,0.646,True,True
+TRAPPIST-1 f,2566.0,M,0.373,True,True
+TRAPPIST-1 g,2566.0,M,0.252,True,True
+Teegarden's Star c,3034.0,M,0.35,True,True
+WASP-41 c,5545.0,G,0.5573,True,True
+WASP-47 c,5565.0,G,0.549,True,True
+Wolf 1069 b,3158.0,M,0.652,True,True
+ups And d,6156.77,F,0.5308,True,True
